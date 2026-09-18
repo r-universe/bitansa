@@ -5,3 +5,6 @@
 [submodule "MR.RGM"]
 	path = MR.RGM
 	url = https://github.com/bitansa/mr.rgm
+[submodule "iPEB"]
+	path = iPEB
+	url = https://github.com/bitansa/ipeb
